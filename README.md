@@ -56,5 +56,6 @@ This project wasn't just about building a game, it was more for learning recursi
 
 ## Author
 Arittri Ray 
+
 Software Engineering | Building strong foundation in problem solving and data algorithms
 
